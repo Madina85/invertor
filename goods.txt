@@ -2,4 +2,6 @@ Mouse
 Keyboard
 laptop
 Microphon
-Клавиатура
+Клавиатурафлаг
+флаг
+сумка
